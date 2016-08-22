@@ -9,7 +9,7 @@
   width: 960px;
   margin: 0 auto;
   /* Columns */
-
+  text-align: center; /* Added in by paula */
 }
 .container .column,
 .container .columns {
