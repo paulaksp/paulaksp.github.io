@@ -677,7 +677,10 @@ b, strong { font-weight: bold; }
 			3.4 About
 	---------------------------------------------------*/
 
-	#about h2 { padding-top: 30px; }
+	#about h2 { 
+		padding-top: 30px; 
+		text-align: center;
+	}
 
 	#about .services h3 {
 		font-size: 32px;
@@ -687,7 +690,7 @@ b, strong { font-weight: bold; }
 	#about .services .item { padding: 30px 0; }
 
 	#about .services h4 {
-		font-size: 16px;
+		font-size: 14px;
 		line-height: 26px;
 		display: inline-block;
 		padding-bottom: 5px;
@@ -695,7 +698,7 @@ b, strong { font-weight: bold; }
 	}
 
 	#about .services p {
-		font-size: 15px;
+		font-size: 12px;
 		line-height: 28px;
 		margin-top: 20px;
 	}
